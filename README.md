@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to Creator Z's Portfolio
 
-You can use the [editor on GitHub](https://github.com/LegionHiro/Portfolio.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+On this Site, all content created was made by Creator Z. Creator Z is currently a 18 year old student, wanted to be a Graphic Designer.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This Digitial Portfolio, will help promote the work she has worked on and share it with the world. Hope you enjoy!
 
 ### Markdown
 
