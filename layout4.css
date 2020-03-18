@@ -157,9 +157,9 @@ input[type=button]:hover {
   cursor: pointer;
   position: absolute;
   top: 50%;
-  width: auto;
+  width: 50%;
   margin-top: 0px;
-  padding: 100px;
+  padding: 60px;
   color: Blue;
   font-weight: bold;
   font-size: 20px;
