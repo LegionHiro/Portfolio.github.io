@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<title>Digital Portfolio</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<link rel="stylesheet" type="text/css" href="layout4.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+</head>
+
+<body>
+<div> <img src="Logo.jpg" alt="Digital Portfolio Logo" style="width:100px;height:100px" align="left"> </div>
+<div> <img src="Logo.jpg" alt="Digital Portfolio Logo" style="width:100px;height:100px" align="right"> </div>
+
+<div class="header">
+  <h1 style="font-size: 40px;">Digital Portfolio</h1>
+
+</div>
+
+<div class="topnav" id="myTopnav">
+  <a href="index.html">Home</a>
+  <a href="About_Me.html">About me</a>
+  <a href="Unit_3.html">Digital Portfolio</a>
+  <a href="Unit_6.html">Digital Graphics</a>
+  <a href="Unit_13.html">Website Development</a>
+  <a href="Graphic_work.html">Graphic Work</a>
+  <a href="Websites.html">Websites</a>
+  <a href="Writing.html">Writing</a>
+  <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+    <i class="fa fa-bars"></i>
+	</a>
+</div>
+
+<center>
+    <h2 style="font-size: 28px;">Writing Corner</h2>
+    <p style="font-size: 16px;">On this page I will be showing my skills in different formats of writing. Writing is a big part of my life, it's one of my passions and I would love t have a job where I can write for a living.</p>
+    <h3 style="font-size: 16px;">Article</h3>
+  <iframe src="https://docs.google.com/document/d/e/2PACX-1vT6ygPMwYdZaFn9A8gINj8l05UJ3qgsZoGJMyCzlODeQ5uyPH3i8lFQULM_VqBENmCTJAK4k3Ik39cU/pub?embedded=true"></iframe>
+</center>
+
+ <center> <img src="Digital.jpg" alt="Digital" style="width:600px;height:400px;" class="responsive"> </center>
+  
+<div class="footer">
+  <p style="color: white;">Created By Sophia Zito</p>
+</div>
+  
+<script>
+function myFunction() {
+  var x = document.getElementById("myTopnav");
+  if (x.className === "topnav") {
+    x.className += " responsive";
+  } else {
+    x.className = "topnav";
+  }
+}
+</script>
+
+</body>
+
+</html>
